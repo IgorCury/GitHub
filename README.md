@@ -27,8 +27,10 @@ git status
 
 git commit -m "escrever"
 
-git remote add origin https://github.com/IgorCury/rastreio.git
 git branch -M main
+
+git remote add origin https://github.com/IgorCury/rastreio.git
+
 git push -u origin main
 
 # Dificuldade encontrada e resolvida
