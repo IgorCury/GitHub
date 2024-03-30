@@ -14,6 +14,8 @@ https://www.delftstack.com/pt/howto/git/how-to-remove-a-git-remote-url/
 
 https://www.youtube.com/watch?v=-sdYsDumGgM
 
+ATUALIÇÃO:
+https://www.youtube.com/watch?v=EbAyAUOmUBM
 
 
 # passo a passo
